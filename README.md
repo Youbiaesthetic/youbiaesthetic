@@ -159,10 +159,11 @@ Le site comprend :
         </div>
     </footer>
 </body>
-</html>```
+</html>
+```
+
 
 ```css
-@ -0,0 +1,206 @@
 /* Reset de styles */
 * {
     margin: 0;
@@ -368,7 +369,8 @@ body {
     .service-item p {
         font-size: 14px;
     }
-}```
+}
+```
 
 <img width="1024" height="1536" alt="YoubiAesthetic_logo" src="https://github.com/user-attachments/assets/4f4c5f65-f010-48c2-8b54-b917c8e591a2" />
 ![photo3](https://github.com/user-attachments/assets/67fa2649-c0ce-4c9e-8d6b-4cbc6b066aab)
