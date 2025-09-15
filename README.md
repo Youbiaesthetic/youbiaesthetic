@@ -41,58 +41,6 @@ Le site comprend :
         <ul class="nav-links">
             <li><a href="#home">Accueil</a></li>
             <li><a href="#services">Services & Tarifs</a></li>
-			<!-- Services & Tarifs -->
-<section id="services">
-    <h2>Nos Services & Tarifs</h2>
-    <div class="service-list">
-        <!-- Lip Filler Service -->
-        <div class="service-item">
-            <img src="photo2.jpg" alt="photo2">
-            <h3>LIP FILLER</h3>
-            <ul>
-                <li>0.5ML: £100</li>
-                <li>1ML: £150</li>
-            </ul>
-            <p>£30 consultation fee applies for anti-wrinkle treatments.</p>
-        </div>
-
-        <!-- Botox Service -->
-        <div class="service-item">
-            <img src="photo1.jpg" alt="photo1">
-            <h3>Anti-Wrinkle Treatment (Botox)</h3>
-            <p>From £100</p>
-        </div>
-
-        <!-- Fat Dissolving Service -->
-        <div class="service-item">
-            <img src="https://images.squarespace-cdn.com/content/v1/61af7c40170a5d7dd8863ff2/6ebb4a14-edef-4bd0-a2b3-340166dce8cb/Aesthetician-performing-fat-dissolving--treatment.jpg" alt="Aesthetician-performing-fat-dissolving--treatment">
-            <h3>Fat Dissolving</h3>
-            <p>Price upon consultation</p>
-        </div>
-
-        <!-- Vitamins Service -->
-        <div class="service-item">
-            <img src="vitamins.jpg" alt="Vitamins">
-            <h3>Vitamins</h3>
-            <p>Price upon consultation</p>
-        </div>
-
-        <!-- Biotin Service -->
-        <div class="service-item">
-            <img src="https://www.pureholisticbeauty.co.uk/wp-content/uploads/2024/07/biotin-injections-benefits.png" alt="Biotin">
-            <h3>Biotin</h3>
-            <p>Price upon consultation</p>
-        </div>
-
-        <!-- Glutathione Service -->
-        <div class="service-item">
-            <img src="https://th.bing.com/th/id/OIP.WwhxlNE54wNBH4m0-J_4CgHaDq?w=283&h=173&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="Glutathione">
-            <h3>Glutathione</h3>
-            <p>Price upon consultation</p>
-        </div>
-    </div>
-</section>
-
             <li><a href="#about">À propos</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
@@ -109,14 +57,45 @@ Le site comprend :
     <section id="services">
         <h2>Nos Services & Tarifs</h2>
         <div class="service-list">
-            <!-- Représenter chaque service ici -->
             <div class="service-item">
-                <img src="service1.jpg" alt="Service 1">
-                <h3>Service 1</h3>
-                <p>Description du service 1</p>
-                <p>Prix: £XX</p>
+                <img src="photo2.jpg" alt="photo2">
+                <h3>LIP FILLER</h3>
+                <ul>
+                    <li>0.5ML: £100</li>
+                    <li>1ML: £150</li>
+                </ul>
+                <p>£30 consultation fee applies for anti-wrinkle treatments.</p>
             </div>
-            <!-- Ajouter d'autres services ici -->
+
+            <div class="service-item">
+                <img src="photo1.jpg" alt="photo1">
+                <h3>Anti-Wrinkle Treatment (Botox)</h3>
+                <p>From £100</p>
+            </div>
+
+            <div class="service-item">
+                <img src="https://images.squarespace-cdn.com/content/v1/61af7c40170a5d7dd8863ff2/6ebb4a14-edef-4bd0-a2b3-340166dce8cb/Aesthetician-performing-fat-dissolving--treatment.jpg" alt="Fat Dissolving">
+                <h3>Fat Dissolving</h3>
+                <p>Price upon consultation</p>
+            </div>
+
+            <div class="service-item">
+                <img src="vitamins.jpg" alt="Vitamins">
+                <h3>Vitamins</h3>
+                <p>Price upon consultation</p>
+            </div>
+
+            <div class="service-item">
+                <img src="https://www.pureholisticbeauty.co.uk/wp-content/uploads/2024/07/biotin-injections-benefits.png" alt="Biotin">
+                <h3>Biotin</h3>
+                <p>Price upon consultation</p>
+            </div>
+
+            <div class="service-item">
+                <img src="https://th.bing.com/th/id/OIP.WwhxlNE54wNBH4m0-J_4CgHaDq?w=283&h=173&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="Glutathione">
+                <h3>Glutathione</h3>
+                <p>Price upon consultation</p>
+            </div>
         </div>
     </section>
 
@@ -124,7 +103,7 @@ Le site comprend :
     <section id="about">
         <h2>À propos de nous</h2>
         <p>Notre clinique offre des services d'esthétique haut de gamme dans un cadre moderne et accueillant.</p>
-        <p><a href="https://www.linkedin.com/in/audrey-youbi-8b11ba1ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Suivez-nous sur LinkedIn</a></p>
+        <p><a href="https://www.linkedin.com/in/audrey-youbi-8b11ba1ba">Suivez-nous sur LinkedIn</a></p>
     </section>
 
     <!-- Contact -->
@@ -154,12 +133,13 @@ Le site comprend :
         <p>Suivez-nous sur les réseaux sociaux:</p>
         <div class="social-icons">
             <a href="https://www.tiktok.com/@youbiaesthetic?_t=ZN-8zk7gkanZ6U&_r=1"><img src="tiktok_icon.png" alt="TikTok"></a>
-            <a href="https://www.instagram.com/youbiaesthetic?igsh=MWFqdW56YTJqdjd3cg=="><img src="instagram_icon.png" alt="Instagram"></a>
+            <a href="https://www.instagram.com/youbiaesthetic"><img src="instagram_icon.png" alt="Instagram"></a>
             <a href="https://www.facebook.com/share/1CCV3CCuym/?mibextid=wwXIfr"><img src="facebook_icon.png" alt="Facebook"></a>
         </div>
     </footer>
 </body>
 </html>
+
 ```
 
 
@@ -170,12 +150,6 @@ Le site comprend :
     padding: 0;
     box-sizing: border-box;
 }
-.logo img {
-    height: 60px; /* Ajustez selon votre logo */
-    width: auto;
-    margin-left: 20px;
-}
-
 
 body {
     font-family: 'Arial', sans-serif;
@@ -250,65 +224,6 @@ body {
     margin-top: 20px;
 }
 
-.service-item img {
-    width: 100%;
-    height: auto;
-}
-
-.service-item h3 {
-    margin-top: 10px;
-}
-
-/* Contact Section */
-#contact {
-    background-color: #fff;
-    padding: 50px 20px;
-}
-
-.contact-info p {
-    font-size: 16px;
-}
-
-/* Social Media Icons */
-.social-icons {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-}
-
-.social-icons a img {
-    width: 40px;
-}
-
-/* Responsivité */
-@media (max-width: 768px) {
-    .navbar .nav-links {
-        display: block;
-        text-align: center;
-    }
-
-    .service-list {
-        grid-template-columns: 1fr;
-    }
-
-    .hero-section h1 {
-        font-size: 30px;
-    }
-}
-/* Section des services */
-#services {
-    padding: 50px 20px;
-    text-align: center;
-    background-color: #fff;
-}
-
-.service-list {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    margin-top: 20px;
-}
-
 .service-item {
     background-color: #f4f4f4;
     border-radius: 10px;
@@ -352,10 +267,40 @@ body {
     margin: 5px 0;
 }
 
+/* Contact Section */
+#contact {
+    background-color: #fff;
+    padding: 50px 20px;
+}
+
+.contact-info p {
+    font-size: 16px;
+}
+
+/* Social Media Icons */
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.social-icons a img {
+    width: 40px;
+}
+
 /* Responsivité */
 @media (max-width: 768px) {
+    .navbar .nav-links {
+        display: block;
+        text-align: center;
+    }
+
     .service-list {
         grid-template-columns: 1fr;
+    }
+
+    .hero-section h1 {
+        font-size: 30px;
     }
 
     .service-item {
@@ -370,6 +315,7 @@ body {
         font-size: 14px;
     }
 }
+
 ```
 
 <img width="1024" height="1536" alt="YoubiAesthetic_logo" src="https://github.com/user-attachments/assets/4f4c5f65-f010-48c2-8b54-b917c8e591a2" />
