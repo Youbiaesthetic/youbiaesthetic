@@ -317,10 +317,3 @@ body {
 }
 
 ```
-
-<img width="1024" height="1536" alt="YoubiAesthetic_logo" src="https://github.com/user-attachments/assets/4f4c5f65-f010-48c2-8b54-b917c8e591a2" />
-![photo3](https://github.com/user-attachments/assets/67fa2649-c0ce-4c9e-8d6b-4cbc6b066aab)
-![photo2](https://github.com/user-attachments/assets/feb89963-35d0-4997-a8df-41e0821d9ebb)
-![photo1](https://github.com/user-attachments/assets/8e5def1c-eaad-47a9-a868-dab018a62e4e)
-![biotin](https://github.com/user-attachments/assets/04cdaf15-70b5-494f-a80c-8e9bcadaabcf)
-![Aesthetician-performing-fat-dissolving--treatment](https://github.com/user-attachments/assets/5dc7ded2-7c33-43c0-b184-03ac2f23578d)
